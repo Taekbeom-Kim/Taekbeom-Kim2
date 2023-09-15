@@ -1,6 +1,6 @@
 # Taekbeom-Kim2
 
-my name is kim
+Edit README.md
 
  - i'm currently learning python, github, data science, linear algebra
  - i'm looking for help with data science, linear algebra
